@@ -3,65 +3,65 @@
       {
         "sys": { "id": "1" },
         "fields": {
-          "title": "queen panel bed",
+          "title": "Behnam",
           "price": 10.99,
-          "image": { "fields": { "file": { "url": "./images/behnam.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/behnam.jpg" } } }
         }
       },
       {
         "sys": { "id": "2" },
         "fields": {
-          "title": "king panel bed",
+          "title": "Irina",
           "price": 12.99,
-          "image": { "fields": { "file": { "url": "./images/Irina.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/Irina.jpg" } } }
         }
       },
       {
         "sys": { "id": "3" },
         "fields": {
-          "title": "single panel bed",
+          "title": "Juan",
           "price": 12.99,
-          "image": { "fields": { "file": { "url": "./images/juan.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/juan.jpg" } } }
         }
       },
       {
         "sys": { "id": "4" },
         "fields": {
-          "title": "twin panel bed",
+          "title": "Laura",
           "price": 22.99,
-          "image": { "fields": { "file": { "url": "./images/laura.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/laura.jpg" } } }
         }
       },
       {
         "sys": { "id": "5" },
         "fields": {
-          "title": "fridge",
+          "title": "Moghadam",
           "price": 88.99,
-          "image": { "fields": { "file": { "url": "./images/moghadam.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/moghadam.jpg" } } }
         }
       },
       {
         "sys": { "id": "6" },
         "fields": {
-          "title": "dresser",
+          "title": "Nadia",
           "price": 32.99,
-          "image": { "fields": { "file": { "url": "./images/nadia.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/nadia.jpg" } } }
         }
       },
       {
         "sys": { "id": "7" },
         "fields": {
-          "title": "couch",
+          "title": "Ron",
           "price": 45.99,
-          "image": { "fields": { "file": { "url": "./images/ron.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/ron.jpg" } } }
         }
       },
       {
         "sys": { "id": "8" },
         "fields": {
-          "title": "table",
+          "title": "Vincent",
           "price": 33.99,
-          "image": { "fields": { "file": { "url": "./images/vincent.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./images/vincent.jpg" } } }
         }
       }
     ]
